@@ -28,7 +28,7 @@
 # Authors
 <ul>
       <li><a href ="https://github.com/rajnukul123">นาย ราชนุกูล พลเดช  61070185</a></li>
-      <li><a href ="https://github.com/Puthinart-S">นาย พุฒินาท สุจริตกิตติคุณ  61070150</a></li>
+      <li><a href ="https://github.com/Puthinart-S">นาย พุฒินาท สุจริตกิตติกุล  61070150</a></li>
       <li><a href ="https://github.com/arinnaline">นาย อริญชย์ อวยเจริญ  61070350</a></li>
       <li><a href ="https://github.com/Tearrockster">นางสาว อรณิช คีรีพิทักษ์  61070261</a></li>
  </ul>
