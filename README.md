@@ -24,7 +24,11 @@
 # Project site
 <ul> <li><a href="https://www.it.kmitl.ac.th/~it61070185//webpro/index.html?fbclid=IwAR2rIiV5ytKqncS32vdFYGn4jnqPJHpVQAAGkBGykM28_MbNN0tbU3qxcXo">Click here<a></li> 
 </ul>
-  
+# Modules
+  <ul>
+    <li>Seaborn</li>
+    <li>matplotlib.pyplot</li>
+    <li>numpy</li>
 # Authors
 <ul>
       <li><a href ="https://github.com/rajnukul123">นาย ราชนุกูล พลเดช  61070185</a></li>
