@@ -1,5 +1,5 @@
 # Worldcup analysis
-<strong>โปรเจกต์นี้เป็นส่วนหนึ่งของวิชาการเเก้ไขปัญหาทางด้านเทคโนโลยีสารสนเทศ</strong>
+<strong>โปรเจกต์นี้เป็นส่วนหนึ่งของวิชาการเเก้ไขปัญหาทางด้านเทคโนโลยีสารสนเทศ</strong><br>
 การนำแมตช์การแข่งขัน ในฟุตบอลโลก(FIFA World Cup)ตั้งแต่ปี 1930 ถึง 2018 มาวิเคราะห์เพื่อหาสถติต่างๆ และแสดงผลในส่วนที่คนน่าจะสนใจมากที่สุด
 # What we do?
 นำข้อมูลทุกแมทช์ของฟุตบอลโลกมาดึงเอาส่วนที่คนน่าจะสนใจมาสร้างเป็นกราฟและสืบค้นเพื่อวิเคราะห์<br />
@@ -23,7 +23,7 @@
 </ul>
 
 # Project site
-<ul> <li><a href="https://www.it.kmitl.ac.th/~it61070185//webpro/index.html?fbclid=IwAR2rIiV5ytKqncS32vdFYGn4jnqPJHpVQAAGkBGykM28_MbNN0tbU3qxcXo">Click here<a></li> 
+<ul> สามารถดูกราฟและการวิเคราะห์ได้ที่ <li><a href="https://www.it.kmitl.ac.th/~it61070185//webpro/index.html?fbclid=IwAR2rIiV5ytKqncS32vdFYGn4jnqPJHpVQAAGkBGykM28_MbNN0tbU3qxcXo">Click here<a></li> 
 </ul>
 
 # Modules
