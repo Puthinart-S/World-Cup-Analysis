@@ -1,8 +1,6 @@
-import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 import pandas as pd
-import requests
 import seaborn as sea
 from IPython import get_ipython
 ipy = get_ipython()
