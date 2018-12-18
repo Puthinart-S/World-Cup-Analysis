@@ -30,6 +30,8 @@
     <li>Seaborn</li>
     <li>matplotlib.pyplot</li>
     <li>numpy</li>
+   <li>pandas</li>
+  </ul>
 
 # Authors
 <ul>
